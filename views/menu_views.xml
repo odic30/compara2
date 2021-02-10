@@ -1,0 +1,25 @@
+<odoo>
+  <data>
+     
+	  
+	 <!-- menú principal --> 
+	  
+    <menuitem name="compara2" id="compara2.principal"/>
+    
+    <!-- submenus -->
+    
+    <menuitem name="Producto Walmart" id="compara2.menu_1" parent="compara2.principal" action="action_walmart_producto"/>
+    <menuitem name="Producto Amazon" id="compara2.menu_2" parent="compara2.principal" action="action_amazon_producto"/>
+    <menuitem name="Comparador Producto" id="compara2.menu_3" parent="compara2.principal" action="action_comparador_producto"/>
+    
+   
+    
+
+       
+    
+              
+           
+    
+    
+  </data>
+</odoo>

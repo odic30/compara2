@@ -1,0 +1,17 @@
+<odoo>
+  <data>
+	  
+	  
+    
+	 <!--ventana para mostrar 2 productos -->
+      
+      <act_window id="action_comparador_producto"
+      name="Comparar Productos"
+      res_model="products.comparador"
+      view_mode="tree" />
+      
+     
+             
+    
+  </data>
+</odoo>

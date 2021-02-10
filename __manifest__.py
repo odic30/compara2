@@ -25,8 +25,11 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views/views.xml',
-        'views/templates.xml',
+        'views/wmt_producto_views.xml',
+        'views/amz_producto_views.xml',
+        'views/compara2producto_views.xml',
+        'views/menu_views.xml',
+        
     ],
     # only loaded in demonstration mode
     'demo': [

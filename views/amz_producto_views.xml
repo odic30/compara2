@@ -1,0 +1,22 @@
+<odoo>
+  <data>
+	  
+	  
+    <!--ventana para mostrar producto amazon -->
+	 
+      
+      <act_window id="action_amazon_producto"
+      name="Amazon Productos"
+      res_model="amazon.producto"
+      view_mode="tree" />
+      
+     
+   
+    
+
+       
+               
+    
+    
+  </data>
+</odoo>

@@ -1,0 +1,15 @@
+<odoo>
+  <data>
+	  
+	 <!--ventana para mostrar producto walmart -->
+    
+	  <act_window id="action_walmart_producto"
+      name="Walmart Productos"
+      res_model="walmart.producto"
+      view_mode="tree" />
+               
+           
+    
+    
+  </data>
+</odoo>
